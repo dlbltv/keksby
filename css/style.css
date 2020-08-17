@@ -432,7 +432,7 @@ body {
 .section-header {
   padding-top: 30px;
   padding-bottom: 136px;
-  background-image: url("/img/header-bg.jpg");
+  background-image: url("../img/header-bg.jpg");
   background-size: cover;
   background-position: bottom;
   background-color: #c5c5c5;
