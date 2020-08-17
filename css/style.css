@@ -434,7 +434,9 @@ body {
   padding-bottom: 136px;
   background-image: url("/img/header-bg.jpg");
   background-size: cover;
-  background-position: bottom; }
+  background-position: bottom;
+  background-color: #c5c5c5;
+}
   .section-header-top {
     display: flex;
     justify-content: space-between; }
