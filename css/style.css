@@ -637,7 +637,7 @@ body {
         left: 70px;
         width: 8px;
         height: 8px;
-        background: url("/img/link.png"); }
+        background: url("../img/link.png"); }
     .section-theory_bottom_section1 .kotmur {
       position: relative; }
       .section-theory_bottom_section1 .kotmur::before {
@@ -647,7 +647,7 @@ body {
         left: 103px;
         width: 8px;
         height: 8px;
-        background: url("/img/link.png"); }
+        background: url("../img/link.png"); }
     @media (max-width: 575px) {
       .section-theory_bottom_section1 {
         flex-direction: column; } }
