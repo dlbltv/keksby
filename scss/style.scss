@@ -121,8 +121,8 @@ body {
   transition: 0.2s;
 
   &:hover {
-    color: #8d745a;
-    border-color: #8d745a;
+    color: darken(#8d745a, 50%);
+    border-color: darken(#8d745a, 50%);
   }
 
   &:active {
