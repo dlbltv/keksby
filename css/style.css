@@ -357,8 +357,8 @@ body {
   color: #a38b70;
   transition: 0.2s; }
   .btn-fortitle:hover {
-    color: #8d745a;
-    border-color: #8d745a; }
+    color: darken(#8d745a, 50%);
+    border-color: darken(#8d745a, 50%) }
   .btn-fortitle:active {
     color: #c5c5c5; }
 
